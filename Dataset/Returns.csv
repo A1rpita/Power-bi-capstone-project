@@ -1,0 +1,155 @@
+ReturnID,OrderID,ReturnDate,ReturnReason,ReturnStatus
+R0001,O01978,2024-02-16,Damaged,Approved
+R0002,O01009,2025-12-19,Changed Mind,Approved
+R0003,O01913,2025-06-28,Wrong Item,Approved
+R0004,O00021,2024-01-24,Wrong Item,Approved
+R0005,O01376,2024-03-05,Damaged,Approved
+R0006,O01935,2025-04-24,Changed Mind,Pending
+R0007,O00307,2026-07-22,Damaged,Approved
+R0008,O00055,2024-09-19,Late Delivery,Approved
+R0009,O01532,2024-08-11,Not as Described,Approved
+R0010,O00023,2024-04-10,Not as Described,Approved
+R0011,O01432,2024-07-13,Late Delivery,Approved
+R0012,O00039,2025-12-17,Not as Described,Approved
+R0013,O01117,2026-08-18,Not as Described,Approved
+R0014,O00356,2025-01-28,Late Delivery,Pending
+R0015,O02138,2025-07-22,Wrong Item,Approved
+R0016,O01044,2024-12-14,Changed Mind,Pending
+R0017,O00710,2026-11-17,Not as Described,Approved
+R0018,O02194,2024-09-08,Late Delivery,Approved
+R0019,O01773,2024-04-17,Wrong Item,Pending
+R0020,O01183,2026-02-07,Damaged,Approved
+R0021,O00070,2026-04-22,Damaged,Approved
+R0022,O00977,2025-01-08,Wrong Item,Approved
+R0023,O00712,2024-08-08,Not as Described,Pending
+R0024,O01557,2026-01-14,Changed Mind,Approved
+R0025,O01522,2026-07-25,Damaged,Approved
+R0026,O00427,2024-06-15,Not as Described,Approved
+R0027,O00724,2024-03-29,Changed Mind,Approved
+R0028,O01565,2024-09-26,Wrong Item,Approved
+R0029,O01819,2024-06-30,Not as Described,Approved
+R0030,O01519,2024-05-18,Wrong Item,Approved
+R0031,O01866,2025-06-20,Late Delivery,Approved
+R0032,O01473,2026-02-02,Not as Described,Approved
+R0033,O01969,2025-08-06,Changed Mind,Approved
+R0034,O02083,2024-05-14,Late Delivery,Approved
+R0035,O00626,2025-02-22,Wrong Item,Approved
+R0036,O00617,2026-03-03,Not as Described,Approved
+R0037,O01983,2024-04-29,Damaged,Approved
+R0038,O00004,2024-09-10,Wrong Item,Approved
+R0039,O00240,2025-02-03,Not as Described,Approved
+R0040,O00571,2024-10-05,Changed Mind,Approved
+R0041,O00761,2024-05-18,Damaged,Approved
+R0042,O00095,2026-05-16,Changed Mind,Approved
+R0043,O01386,2026-08-18,Wrong Item,Approved
+R0044,O02197,2026-09-07,Changed Mind,Approved
+R0045,O00143,2024-08-02,Wrong Item,Approved
+R0046,O01699,2026-11-10,Wrong Item,Approved
+R0047,O02179,2024-05-06,Not as Described,Approved
+R0048,O00923,2024-05-23,Damaged,Approved
+R0049,O01463,2025-10-07,Late Delivery,Approved
+R0050,O02150,2026-08-24,Damaged,Approved
+R0051,O01285,2026-01-21,Changed Mind,Approved
+R0052,O00988,2024-08-11,Late Delivery,Approved
+R0053,O00959,2024-11-21,Not as Described,Approved
+R0054,O00877,2024-07-27,Wrong Item,Approved
+R0055,O00099,2024-06-21,Damaged,Approved
+R0056,O01714,2024-09-27,Late Delivery,Approved
+R0057,O00198,2026-06-22,Not as Described,Approved
+R0058,O01449,2024-04-17,Changed Mind,Approved
+R0059,O00103,2026-04-02,Damaged,Approved
+R0060,O00439,2024-06-30,Changed Mind,Approved
+R0061,O02111,2025-04-16,Wrong Item,Approved
+R0062,O01197,2024-03-23,Changed Mind,Pending
+R0063,O00732,2026-07-13,Damaged,Pending
+R0064,O02012,2026-08-29,Wrong Item,Approved
+R0065,O00915,2024-05-03,Not as Described,Approved
+R0066,O01525,2025-08-11,Damaged,Approved
+R0067,O00421,2024-07-19,Not as Described,Approved
+R0068,O01055,2025-12-05,Changed Mind,Approved
+R0069,O00854,2026-02-27,Changed Mind,Approved
+R0070,O01164,2026-06-13,Not as Described,Approved
+R0071,O01507,2025-05-27,Wrong Item,Approved
+R0072,O01464,2024-03-03,Not as Described,Approved
+R0073,O01851,2024-07-18,Wrong Item,Approved
+R0074,O02035,2024-04-06,Wrong Item,Approved
+R0075,O00526,2025-12-07,Changed Mind,Approved
+R0076,O00867,2026-01-02,Late Delivery,Approved
+R0077,O00964,2024-04-26,Wrong Item,Approved
+R0078,O00682,2025-09-07,Late Delivery,Approved
+R0079,O00542,2025-11-18,Damaged,Approved
+R0080,O01343,2024-08-07,Late Delivery,Approved
+R0081,O00018,2024-02-29,Late Delivery,Approved
+R0082,O01931,2026-09-07,Changed Mind,Approved
+R0083,O00025,2026-09-04,Late Delivery,Approved
+R0084,O01636,2025-08-23,Late Delivery,Approved
+R0085,O01315,2024-05-21,Not as Described,Approved
+R0086,O00011,2025-06-13,Wrong Item,Approved
+R0087,O00463,2026-05-26,Changed Mind,Approved
+R0088,O01399,2025-10-28,Changed Mind,Approved
+R0089,O00399,2024-11-12,Wrong Item,Approved
+R0090,O00120,2025-09-05,Not as Described,Pending
+R0091,O02039,2025-03-02,Changed Mind,Approved
+R0092,O01370,2026-09-05,Changed Mind,Approved
+R0093,O01635,2025-05-03,Damaged,Approved
+R0094,O01050,2026-06-22,Changed Mind,Approved
+R0095,O01030,2025-06-18,Late Delivery,Approved
+R0096,O02020,2024-04-20,Changed Mind,Approved
+R0097,O01991,2024-05-22,Late Delivery,Approved
+R0098,O01802,2026-09-16,Damaged,Pending
+R0099,O01347,2026-02-05,Damaged,Approved
+R0100,O01832,2026-06-19,Wrong Item,Approved
+R0101,O01115,2024-04-21,Wrong Item,Approved
+R0102,O00473,2025-11-16,Not as Described,Approved
+R0103,O01075,2024-11-14,Not as Described,Approved
+R0104,O00158,2025-02-24,Changed Mind,Approved
+R0105,O00785,2024-09-06,Changed Mind,Approved
+R0106,O00759,2025-12-10,Wrong Item,Pending
+R0107,O02162,2024-08-23,Changed Mind,Approved
+R0108,O00235,2025-04-25,Late Delivery,Approved
+R0109,O02144,2024-03-20,Late Delivery,Approved
+R0110,O00375,2024-07-05,Not as Described,Approved
+R0111,O01018,2024-12-18,Changed Mind,Approved
+R0112,O00142,2026-06-01,Wrong Item,Approved
+R0113,O01388,2025-07-16,Damaged,Pending
+R0114,O02084,2024-11-12,Late Delivery,Approved
+R0115,O01902,2025-05-12,Not as Described,Approved
+R0116,O01589,2024-07-09,Changed Mind,Pending
+R0117,O00620,2025-10-13,Not as Described,Approved
+R0118,O00054,2024-10-10,Wrong Item,Approved
+R0119,O00340,2025-07-31,Damaged,Approved
+R0120,O01223,2026-10-11,Late Delivery,Approved
+R0121,O00739,2025-08-25,Damaged,Pending
+R0122,O01188,2025-02-05,Damaged,Approved
+R0123,O01895,2024-06-23,Late Delivery,Approved
+R0124,O00683,2025-01-15,Changed Mind,Approved
+R0125,O00902,2024-02-05,Late Delivery,Approved
+R0126,O02048,2025-04-26,Late Delivery,Approved
+R0127,O01216,2025-02-10,Wrong Item,Approved
+R0128,O01608,2025-06-15,Late Delivery,Approved
+R0129,O00175,2024-02-12,Changed Mind,Approved
+R0130,O01425,2024-06-30,Changed Mind,Approved
+R0131,O01570,2026-05-13,Late Delivery,Approved
+R0132,O00106,2025-12-20,Wrong Item,Approved
+R0133,O01854,2026-02-17,Changed Mind,Approved
+R0134,O01056,2025-03-01,Changed Mind,Approved
+R0135,O01572,2025-04-12,Damaged,Approved
+R0136,O02077,2026-03-11,Wrong Item,Approved
+R0137,O01562,2024-03-19,Damaged,Approved
+R0138,O00222,2024-04-23,Damaged,Approved
+R0139,O00279,2024-07-27,Changed Mind,Approved
+R0140,O01501,2025-11-03,Not as Described,Approved
+R0141,O02095,2024-06-20,Not as Described,Approved
+R0142,O00467,2025-08-18,Late Delivery,Pending
+R0143,O01328,2025-07-23,Changed Mind,Approved
+R0144,O00516,2025-09-26,Wrong Item,Approved
+R0145,O00580,2025-12-06,Wrong Item,Approved
+R0146,O01459,2024-09-20,Late Delivery,Approved
+R0147,O01354,2026-09-02,Not as Described,Approved
+R0148,O00321,2025-10-03,Not as Described,Approved
+R0149,O01335,2026-03-07,Wrong Item,Approved
+R0150,O00885,2025-10-13,Changed Mind,Approved
+R0151,O00727,2025-09-12,Changed Mind,Approved
+R0152,O01717,2025-09-23,Damaged,Approved
+R0153,O01527,2024-04-18,Damaged,Approved
+R0154,O01031,2025-07-13,Damaged,Approved

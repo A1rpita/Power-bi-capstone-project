@@ -1,0 +1,21 @@
+File,Column,Description,SuggestedType
+Orders.csv,OrderID,Unique order identifier,Text
+Orders.csv,OrderDate,Transaction date,Date
+Orders.csv,CustomerID,Customer foreign key,Text
+Orders.csv,ProductID,Product foreign key,Text
+Orders.csv,Quantity,Units sold,Whole number
+Orders.csv,UnitPrice,Selling price before discount,Decimal
+Orders.csv,Discount,Discount fraction,Decimal
+Orders.csv,Sales,Net sales,Decimal
+Orders.csv,Profit,Recorded profit,Decimal
+Customers.csv,CustomerID,Unique customer key,Text
+Customers.csv,Segment,Customer segment,Text
+Customers.csv,Region,Customer region,Text
+Customers.csv,City,Customer city,Text
+Products.csv,ProductID,Unique product key,Text
+Products.csv,Category,Product category,Text
+Products.csv,ListPrice,Catalogue selling price,Decimal
+Products.csv,UnitCost,Product cost,Decimal
+Returns.csv,OrderID,Returned order key,Text
+Returns.csv,ReturnReason,Reason for return,Text
+Returns.csv,ReturnStatus,Return approval status,Text
